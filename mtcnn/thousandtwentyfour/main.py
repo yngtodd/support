@@ -1,3 +1,5 @@
+from comet_ml import Experiment
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -7,6 +9,8 @@ from torch.utils.data import DataLoader
 from model import MTCNN
 from data import Deidentified
 from data import load_wv_matrix
+from utils import load_results
+from objective import objective
 
 import time
 import logging
@@ -18,7 +22,9 @@ from parser import parse_args
 import numpy as np
 
 from torch.cuda.profiler import start, stop
-from fp16util import network_to_half, set_grad, copy_in_params
+
+
+experiment = Experiment(api_key="1gZw4BPQhKSQ63qn9buShJCcs", project_name="support")
 
 
 def print_shapes(predicted_name, predicted, actual_name, actual):
@@ -77,7 +83,7 @@ def train(epoch, train_loader, optimizer, criterion, train_size, args):
                 behavior = behavior.half()
                 grade = grade.half()
 
-        print('grade is of type {} with shape {}'.format(type(grade), grade.size()))
+#        print('grade is of type {} with shape {}'.format(type(grade), grade.size()))
 #        wv_matrix = Variable(wv_matrix)
         sentence = Variable(sentence)
         subsite = Variable(subsite)
@@ -153,7 +159,7 @@ def test(epoch, test_loader, args):
         _, behavior_predicted = torch.max(out_behavior.data, 1)
         _, grade_predicted = torch.max(out_grade.data, 1)
 
-        print_shapes('subsite predicted', subsite_predicted, 'actual', subsite)
+        #print_shapes('subsite predicted', subsite_predicted, 'actual', subsite)
 
         total += subsite.size(0)
         subsite_correct += (subsite_predicted == subsite.data).sum()
@@ -165,6 +171,13 @@ def test(epoch, test_loader, args):
     laterality_acc = 100 * laterality_correct / total
     behavior_acc = 100 * behavior_correct / total
     grade_acc = 100 * grade_correct / total
+    
+    metrics = {'subsite_accuracy': subsite_acc,
+               'laterality_accuracy': laterality_acc,
+               'behavior_accuracy': behavior_acc,
+               'grade_accuracy': grade_acc}
+
+    experiment.log_multiple_metrics(metrics)
 
     print_accuracy(
         epoch, subsite_correct, laterality_correct,
@@ -177,7 +190,7 @@ def test(epoch, test_loader, args):
 def main():
     args = parse_args()
     args.cuda = not args.no_cuda and torch.cuda.is_available()
-    
+
     global fileConfig
     fileConfig('logging_config.ini')
 
@@ -203,9 +216,37 @@ def main():
     train_loader = DataLoader(train_data, batch_size=args.batch_size, shuffle=True)
     test_loader = DataLoader(test_data, batch_size=args.batch_size, shuffle=False)
     wv_matrix = load_wv_matrix(args.data_dir + '/wv_matrix/wv50.npy')
+
+    results = load_results(args.stored_results, sort=True)
+    space = results[args.num_result]
+    domain = space.x
+    kernel1 = int(domain[0])
+    kernel2 = int(domain[1])
+    kernel3 = int(domain[2])
+    num_filters1 = int(domain[3])
+    num_filters2 = int(domain[4])
+    num_filters3 = int(domain[5])
+    dropout1 = float(domain[6])
+    dropout2 = float(domain[7])
+    dropout3 = float(domain[8])
+
+    parameters = {'kernel1': kernel1,
+                  'kernel2': kernel2,
+                  'kernel3': kernel3,
+                  'num_filters1': num_filters1,
+                  'num_filters2': num_filters2,
+                  'num_filters3': num_filters3,
+                  'dropout1': dropout1,
+                  'dropout2': dropout2,
+                  'dropout3': dropout3}
+
+    experiment.log_multiple_params(parameters)
     
     global model
-    model = MTCNN(wv_matrix, kernel1=1, kernel2=1, kernel3=1)
+    model = MTCNN(wv_matrix, kernel1=kernel1, kernel2=kernel2, kernel3=kernel3,
+                  num_filters1=num_filters1, num_filters2=num_filters2, num_filters3=num_filters3,
+                  dropout1=dropout1, dropout2=dropout2, dropout3=dropout3)
+
     if args.cuda and torch.cuda.device_count() > 1:
 #        model = nn.DataParallel(model)
         model = model.cuda()
@@ -248,19 +289,19 @@ def main():
     logger.info('Total runtime: {:.4f} seconds'.format(time.time() - start_time)) 
     print('Total runtime: {:.4f} seconds'.format(time.time() - start_time)) 
 
-    loss_arry = np.asarray(loss_arry)
-    subsite_arry = np.asarray(subsite_arry)
-    laterality_arry = np.asarray(laterality_arry)
-    behavior_arry = np.asarray(behavior_arry)
-    grade_arry = np.asarray(grade_arry)
-    epoch_time = np.asarray(epoch_time)
+#    loss_arry = np.asarray(loss_arry)
+#    subsite_arry = np.asarray(subsite_arry)
+#    laterality_arry = np.asarray(laterality_arry)
+#    behavior_arry = np.asarray(behavior_arry)
+#    grade_arry = np.asarray(grade_arry)
+#    epoch_time = np.asarray(epoch_time)
 
-    np.save('loss_time', loss_arry)
-    np.save('subsite_acc', subsite_arry)
-    np.save('laterality_acc', laterality_arry)
-    np.save('behavior_acc', behavior_arry)
-    np.save('grade_acc', grade_arry)
-    np.save('epoch_times', epoch_time)
+#    np.save('loss_time', loss_arry)
+#    np.save('subsite_acc', subsite_arry)
+#    np.save('laterality_acc', laterality_arry)
+#    np.save('behavior_acc', behavior_arry)
+#    np.save('grade_acc', grade_arry)
+#    np.save('epoch_times', epoch_time)
 
 
 if __name__=='__main__':
