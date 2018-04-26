@@ -1,9 +1,9 @@
-2018-04-25 20:39:27,680 root         INFO     Epoch: 1, Step: [1/421], Loss: 5.4939
-2018-04-25 20:39:34,962 root         INFO     
+2018-04-25 22:52:37,893 root         INFO     Epoch: 1, Step: [1/421], Loss: 4.8252
+2018-04-25 22:52:45,572 root         INFO     
 Epoch 1 Test Accuracy:
-Subsite: 5.77
-Laterality: 38.46
-Behavior: 9.62
-Grade: 1.92
+Subsite: 9.62
+Laterality: 61.54
+Behavior: 90.38
+Grade: 32.69
 
-2018-04-25 20:39:34,962 root         INFO     Total runtime: 9.6938 seconds
+2018-04-25 22:52:45,574 root         INFO     Total runtime: 10.1498 seconds
