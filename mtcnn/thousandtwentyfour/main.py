@@ -249,7 +249,7 @@ def main():
 
     if args.cuda and torch.cuda.device_count() > 1:
 #        model = nn.DataParallel(model)
-        model = model.cuda()
+        model = model.cuda().half()
         if args.fp16:
             model = network_to_half(model)
 
