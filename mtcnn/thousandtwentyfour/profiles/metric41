@@ -1,0 +1,120 @@
+==38130== NVPROF is profiling process 38130, command: python main.py --num_result 41
+==38130== Profiling application: python main.py --num_result 41
+==38130== Profiling result:
+==38130== Metric result:
+Invocations                               Metric Name                            Metric Description         Min         Max         Avg
+Device "Tesla V100-DGXS-16GB (0)"
+    Kernel: void cunn_SoftMaxBackward<int=2, float, float, LogSoftMaxBackwardEpilogue>(float*, float*, float*, int)
+          4                             flop_count_sp   Floating Point Operations(Single Precision)          55         121          77
+          4                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply2<TensorMulOp<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<TensorMulOp<float>, float>, TensorInfo<float, float>, float, float)
+         15                             flop_count_sp   Floating Point Operations(Single Precision)           2      141267       10029
+         15                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void add_tensor_kernel_v3<int=2, float, float, int=128, int=1, int=1, int=4, int=2>(cudnnTensorStruct, float*, cudnnTensorStruct, float const *, float, float)
+        159                             flop_count_sp   Floating Point Operations(Single Precision)    14880200    20500176    18626160
+        159                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelTransformReduceInnermostDimIndex<float, long, MaxValuePair<float, long>>(float*, long*, float*, unsigned int, unsigned int, thrust::pair<float, long>, float)
+        208                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+        208                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply3<ThresholdUpdateGradInput<float>, float, float, float, unsigned int, int=-2, int=-2, int=-2>(TensorInfo<ThresholdUpdateGradInput<float>, float>, TensorInfo<float, float>, TensorInfo<float, float>, float, float)
+          3                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+          3                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void cunn_SoftMaxForward<int=2, float, float, LogSoftMaxForwardEpilogue>(float*, float*, int)
+          4                             flop_count_sp   Floating Point Operations(Single Precision)         855         921         877
+          4                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void cudnn::detail::wgrad_alg0_engine<float, int=128, int=6, int=7, int=3, int=3, int=5, bool=1, int=512>(int, int, int, float const *, int, cudnn::detail::wgrad_alg0_engine<float, int=128, int=6, int=7, int=3, int=3, int=5, bool=1, int=512>*, float const , kernel_grad_params, int, float, int, int, int, int)
+          1                             flop_count_sp   Floating Point Operations(Single Precision)  1204259264  1204259264  1204259264
+          1                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply2<ThresholdUpdateOutput<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<ThresholdUpdateOutput<float>, float>, TensorInfo<float, float>, float, float)
+        159                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+        159                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void cunn_ClassNLLCriterion_updateGradInput_kernel<float>(float*, float*, long*, float*, float*, int, int, int, int, long)
+          4                             flop_count_sp   Floating Point Operations(Single Precision)         163         163         163
+          4                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void CatArrayBatchedCopy<float, unsigned int, int=2>(float*, CatArrInputTensor<float, unsigned int>*, OutputTensorSizeStride<unsigned int, unsigned int=4>, int, unsigned int)
+         53                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+         53                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void adaptivemaxpool<float>(float*, float*, long*, int, int, int, int, long, long, long)
+        159                             flop_count_sp   Floating Point Operations(Single Precision)       49500       68310       62040
+        159                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply2<TensorDivOp<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<TensorDivOp<float>, float>, TensorInfo<float, float>, float, float)
+         15                             flop_count_sp   Floating Point Operations(Single Precision)          30     2119005      150445
+         15                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void calc_bias_diff<int=2, float, float, int=128, int=0>(cudnnTensorStruct, float const *, cudnnTensorStruct, float*, float, float, int)
+          3                             flop_count_sp   Floating Point Operations(Single Precision)     7362200    10160112     9227244
+          3                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void scalePackedTensor_kernel<float, float>(cudnnTensor4dStruct, float*, float)
+          3                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+          3                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelReduceNoncontigDim<thrust::identity<float>, ReduceAdd<float, float>, ReduceAdd<float, float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<float, ReduceAdd<float, float>>, TensorInfo<float, ReduceAdd<float, float>>, ReduceAdd<float, float>, ReduceAdd<float, float>, ReduceAdd<float, float>, ReduceAdd<float, float>, float, thrust::identity<float>, float)
+          4                             flop_count_sp   Floating Point Operations(Single Precision)           2           8           4
+          4                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply1<TensorFillOp<float>, float, unsigned int, int=-2>(TensorInfo<TensorFillOp<float>, float>, float, float)
+          1                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+          1                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void gemv2N_kernel_val<float, float, float, int=128, int=1, int=4, int=4, int=1>(float, float, cublasGemv2Params_v2<float, float, float>)
+          3                             flop_count_sp   Floating Point Operations(Single Precision)        1886        3396        2389
+          3                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply1<Tensor_sqrt_Float_Op, float, unsigned int, int=-2>(TensorInfo<float, unsigned int>, unsigned int, Tensor_sqrt_Float_Op)
+         30                             flop_count_sp   Floating Point Operations(Single Precision)          14      988869       70207
+         30                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply3<TensorAddOp<float>, float, float, float, unsigned int, int=-2, int=-2, int=-2>(TensorInfo<TensorAddOp<float>, float>, TensorInfo<float, float>, TensorInfo<float, float>, float, float)
+          8                             flop_count_sp   Floating Point Operations(Single Precision)           1       73500       18516
+          8                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply2<TensorAddConstantOp<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<TensorAddConstantOp<float>, float>, TensorInfo<float, float>, float, float)
+         30                             flop_count_sp   Floating Point Operations(Single Precision)           2      141267       10029
+         30                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply1<TensorMulConstantOp<float>, float, unsigned int, int=-2>(TensorInfo<TensorMulConstantOp<float>, float>, float, float)
+         30                             flop_count_sp   Floating Point Operations(Single Precision)           2      141267       10029
+         30                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void gemv2T_kernel_val<float, float, float, int=128, int=16, int=2, int=4, bool=0>(int, int, float, float const *, int, float const *, int, float, float*, int)
+        212                             flop_count_sp   Floating Point Operations(Single Precision)        1978        6784        3580
+        212                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply2<TensorCAddOp<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<TensorCAddOp<float>, float>, TensorInfo<float, float>, float, float)
+         15                             flop_count_sp   Floating Point Operations(Single Precision)           4      282534       20059
+         15                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void cunn_LookupTable_accGradParametersKernel<float, float>(long*, long*, float*, float*, long*, float, long, long, int)
+          1                             flop_count_sp   Floating Point Operations(Single Precision)      261632      261632      261632
+          1                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: cudnn::gemm::computeOffsetsKernel(cudnn::gemm::ComputeOffsetsParams)
+        159                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+        159                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void thrust::cuda_cub::core::_kernel_agent<thrust::cuda_cub::__merge_sort::BlockSortAgent<thrust::device_ptr<long>, thrust::device_ptr<long>, long, ThrustLTOp<long>, thrust::detail::integral_constant<bool, bool=1>, thrust::detail::integral_constant<bool, bool=0>>, bool, thrust::device_ptr<long>, thrust::device_ptr<long>, long, long*, long*, ThrustLTOp<long>>(thrust::device_ptr<long>, thrust::device_ptr<long>, long, long, ThrustLTOp<long>, bool, bool=1)
+          1                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+          1                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void atomicadaptivemaxgradinput<float>(float*, float*, long*, int, int, int, int)
+          3                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+          3                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void gemmk1_kernel<float, int=256, int=5, bool=0, bool=0, bool=1, bool=0>(cublasGemmk1Params<float>, float const *, float const *, float*)
+          4                             flop_count_sp   Floating Point Operations(Single Precision)        1128        3384        1880
+          4                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void cudnn::detail::wgrad_alg0_engine<float, int=128, int=6, int=8, int=3, int=3, int=5, bool=1, int=512>(int, int, int, float const *, int, cudnn::detail::wgrad_alg0_engine<float, int=128, int=6, int=8, int=3, int=3, int=5, bool=1, int=512>*, float const , kernel_grad_params, int, float, int, int, int, int)
+          2                             flop_count_sp   Floating Point Operations(Single Precision)  2408416288  2408515648  2408465968
+          2                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void thrust::cuda_cub::core::_kernel_agent<thrust::cuda_cub::__parallel_for::ParallelForAgent<thrust::cuda_cub::__transform::unary_transform_f<thrust::counting_iterator<long, thrust::use_default, thrust::use_default, thrust::use_default>, thrust::device_ptr<long>, thrust::cuda_cub::__transform::no_stencil_tag, thrust::identity<long>, thrust::cuda_cub::__transform::always_true_predicate>, long>, thrust::cuda_cub::__transform::unary_transform_f<thrust::counting_iterator<long, thrust::use_default, thrust::use_default, thrust::use_default>, thrust::device_ptr<long>, thrust::cuda_cub::__transform::no_stencil_tag, thrust::identity<long>, thrust::cuda_cub::__transform::always_true_predicate>, long>(thrust::use_default, thrust::use_default)
+          1                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+          1                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void indexSelectLargeIndex<float, unsigned int, int=2, int=2, int=-2, bool=1>(TensorInfo<float, unsigned int>, TensorInfo<float, unsigned int>, TensorInfo<long, unsigned int>, int, int, unsigned int, unsigned int, long)
+         53                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+         53                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: volta_scudnn_128x64_relu_interior_nn_v1
+        159                             flop_count_sp   Floating Point Operations(Single Precision)   169574400   480460800   301465600
+        159                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void cudnn::detail::dgrad_engine<float, int=128, int=6, int=7, int=3, int=3, int=5, bool=1>(int, int, int, float const *, int, float const , int, cudnn::detail::dgrad_engine<float, int=128, int=6, int=7, int=3, int=3, int=5, bool=1>*, kernel_grad_params, int, int, float, int, int, int)
+          3                             flop_count_sp   Floating Point Operations(Single Precision)   980277658  1357330110  1231523482
+          3                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void cunn_ClassNLLCriterion_updateOutput_kernel<float, float>(float*, float*, float*, long*, float*, int, int, int, int, long)
+          4                             flop_count_sp   Floating Point Operations(Single Precision)          82          82          82
+          4                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void gemv2N_kernel_val<float, float, float, int=128, int=2, int=4, int=4, int=1>(float, float, cublasGemv2Params_v2<float, float, float>)
+          1                             flop_count_sp   Floating Point Operations(Single Precision)        7192        7192        7192
+          1                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelReduceAll<thrust::identity<unsigned char>, ReduceAdd<unsigned char, long>, ReduceAdd<long, long>, unsigned char, long, unsigned int, int=-2>(TensorInfo<long, long>, long, ReduceAdd<unsigned char, long>, unsigned char, thrust::identity<unsigned char>, unsigned char, ReduceAdd<unsigned char, long>*)
+        156                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+        156                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply3<TensorAddCMulOp<float>, float, float, float, unsigned int, int=-2, int=-2, int=-2>(TensorInfo<TensorAddCMulOp<float>, float>, TensorInfo<float, float>, TensorInfo<float, float>, float, float)
+         30                             flop_count_sp   Floating Point Operations(Single Precision)           6      423801       30089
+         30                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
+    Kernel: void kernelPointwiseApply3<TensorEQOp<long, unsigned char>, unsigned char, long, long, unsigned int, int=-2, int=-2, int=-2>(TensorInfo<unsigned char, long>, TensorInfo<TensorEQOp<long, unsigned char>, long>, TensorInfo<unsigned char, long>, long, long)
+        208                             flop_count_sp   Floating Point Operations(Single Precision)           0           0           0
+        208                             flop_count_hp     Floating Point Operations(Half Precision)           0           0           0
