@@ -1,0 +1,196 @@
+==19524== NVPROF is profiling process 19524, command: python main.py --num_result 15
+==19524== Profiling application: python main.py --num_result 15
+==19524== Profiling result:
+==19524== Metric result:
+Invocations                               Metric Name                                    Metric Description         Min         Max         Avg
+Device "Tesla V100-DGXS-16GB (0)"
+    Kernel: void cunn_SoftMaxBackward<int=2, float, float, LogSoftMaxBackwardEpilogue>(float*, float*, float*, int)
+          4                         flop_count_sp_add       Floating Point Operations(Single Precision Add)          37          49          41
+          4                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           6          24          12
+          4                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           6          24          12
+          4                     flop_count_sp_special   Floating Point Operations(Single Precision Special)          68          80          72
+    Kernel: void kernelPointwiseApply2<TensorMulOp<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<TensorMulOp<float>, float>, TensorInfo<float, float>, float, float)
+         15                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+         15                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+         15                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           2      141267       10056
+         15                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void add_tensor_kernel_v3<int=2, float, float, int=128, int=1, int=1, int=4, int=2>(cudnnTensorStruct, float*, cudnnTensorStruct, float const *, float, float)
+        159                         flop_count_sp_add       Floating Point Operations(Single Precision Add)     3660800     5930496     4832256
+        159                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)     3689100     5975370     4868930
+        159                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)     3842700     6141258     5032600
+        159                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelTransformReduceInnermostDimIndex<float, long, MaxValuePair<float, long>>(float*, long*, float*, unsigned int, unsigned int, thrust::pair<float, long>, float)
+        208                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+        208                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+        208                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+        208                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelPointwiseApply3<ThresholdUpdateGradInput<float>, float, float, float, unsigned int, int=-2, int=-2, int=-2>(TensorInfo<ThresholdUpdateGradInput<float>, float>, TensorInfo<float, float>, TensorInfo<float, float>, float, float)
+          3                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          3                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          3                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          3                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void cunn_SoftMaxForward<int=2, float, float, LogSoftMaxForwardEpilogue>(float*, float*, int)
+          4                         flop_count_sp_add       Floating Point Operations(Single Precision Add)         105         129         113
+          4                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)         356         368         360
+          4                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)          38          56          44
+          4                     flop_count_sp_special   Floating Point Operations(Single Precision Special)          36          48          40
+    Kernel: void cudnn::detail::wgrad_alg0_engine<float, int=128, int=6, int=7, int=3, int=3, int=5, bool=1, int=512>(int, int, int, float const *, int, cudnn::detail::wgrad_alg0_engine<float, int=128, int=6, int=7, int=3, int=3, int=5, bool=1, int=512>*, float const , kernel_grad_params, int, float, int, int, int, int)
+          1                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          1                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)   602144768   602144768   602144768
+          1                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)       28800       28800       28800
+          1                     flop_count_sp_special   Floating Point Operations(Single Precision Special)       36864       36864       36864
+    Kernel: void kernelPointwiseApply2<ThresholdUpdateOutput<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<ThresholdUpdateOutput<float>, float>, TensorInfo<float, float>, float, float)
+        159                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+        159                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+        159                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+        159                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void cunn_ClassNLLCriterion_updateGradInput_kernel<float>(float*, float*, long*, float*, float*, int, int, int, int, long)
+          4                         flop_count_sp_add       Floating Point Operations(Single Precision Add)          32          32          32
+          4                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)          65          65          65
+          4                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           1           1           1
+          4                     flop_count_sp_special   Floating Point Operations(Single Precision Special)          32          32          32
+    Kernel: void CatArrayBatchedCopy<float, unsigned int, int=2>(float*, CatArrInputTensor<float, unsigned int>*, OutputTensorSizeStride<unsigned int, unsigned int=4>, int, unsigned int)
+         53                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+         53                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+         53                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+         53                     flop_count_sp_special   Floating Point Operations(Single Precision Special)         396         396         396
+    Kernel: void adaptivemaxpool<float>(float*, float*, long*, int, int, int, int, long, long, long)
+        159                         flop_count_sp_add       Floating Point Operations(Single Precision Add)        3300        5346        4356
+        159                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)       23100       37422       30492
+        159                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+        159                     flop_count_sp_special   Floating Point Operations(Single Precision Special)        3300        5346        4356
+    Kernel: void kernelPointwiseApply2<TensorDivOp<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<TensorDivOp<float>, float>, TensorInfo<float, float>, float, float)
+         15                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           2      141267       10056
+         15                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)          14      988869       70397
+         15                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+         15                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           2      141267       10056
+    Kernel: void calc_bias_diff<int=2, float, float, int=128, int=0>(cudnnTensorStruct, float const *, cudnnTensorStruct, float*, float, float, int)
+          3                         flop_count_sp_add       Floating Point Operations(Single Precision Add)     7362600    11926440     9717950
+          3                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          3                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)         100         162         132
+          3                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void scalePackedTensor_kernel<float, float>(cudnnTensor4dStruct, float*, float)
+          3                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          3                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          3                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          3                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelReduceNoncontigDim<thrust::identity<float>, ReduceAdd<float, float>, ReduceAdd<float, float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<float, ReduceAdd<float, float>>, TensorInfo<float, ReduceAdd<float, float>>, ReduceAdd<float, float>, ReduceAdd<float, float>, ReduceAdd<float, float>, ReduceAdd<float, float>, float, thrust::identity<float>, float)
+          4                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           2           8           4
+          4                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          4                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          4                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelPointwiseApply1<TensorFillOp<float>, float, unsigned int, int=-2>(TensorInfo<TensorFillOp<float>, float>, float, float)
+          1                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          1                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          1                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          1                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void gemv2N_kernel_val<float, float, float, int=128, int=1, int=4, int=4, int=1>(float, float, cublasGemv2Params_v2<float, float, float>)
+          3                         flop_count_sp_add       Floating Point Operations(Single Precision Add)         396         396         396
+          3                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)         792        1584        1056
+          3                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           8          16          10
+          3                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelPointwiseApply1<Tensor_sqrt_Float_Op, float, unsigned int, int=-2>(TensorInfo<float, unsigned int>, unsigned int, Tensor_sqrt_Float_Op)
+         30                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           2      141267       10056
+         30                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           4      282534       20113
+         30                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           4      282534       20113
+         30                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           2      141267       10056
+    Kernel: void kernelPointwiseApply3<TensorAddOp<float>, float, float, float, unsigned int, int=-2, int=-2, int=-2>(TensorInfo<TensorAddOp<float>, float>, TensorInfo<float, float>, TensorInfo<float, float>, float, float)
+          8                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           1       73500       18523
+          8                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          8                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          8                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelPointwiseApply2<TensorAddConstantOp<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<TensorAddConstantOp<float>, float>, TensorInfo<float, float>, float, float)
+         30                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           2      141267       10056
+         30                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+         30                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+         30                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelPointwiseApply1<TensorMulConstantOp<float>, float, unsigned int, int=-2>(TensorInfo<TensorMulConstantOp<float>, float>, float, float)
+         30                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+         30                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+         30                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           2      141267       10056
+         30                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void gemv2T_kernel_val<float, float, float, int=128, int=16, int=2, int=4, bool=0>(int, int, float, float const *, int, float const *, int, float, float*, int)
+        212                         flop_count_sp_add       Floating Point Operations(Single Precision Add)          94         376         188
+        212                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)         794        3176        1588
+        212                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)         396         396         396
+        212                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelPointwiseApply2<TensorCAddOp<float>, float, float, unsigned int, int=-2, int=-2>(TensorInfo<TensorCAddOp<float>, float>, TensorInfo<float, float>, float, float)
+         15                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+         15                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           2      141267       10056
+         15                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+         15                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void cunn_LookupTable_accGradParametersKernel<float, float>(long*, long*, float*, float*, long*, float, long, long, int)
+          1                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          1                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)        7040        7040        7040
+          1                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          1                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: cudnn::gemm::computeOffsetsKernel(cudnn::gemm::ComputeOffsetsParams)
+        159                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+        159                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+        159                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+        159                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void thrust::cuda_cub::core::_kernel_agent<thrust::cuda_cub::__merge_sort::BlockSortAgent<thrust::device_ptr<long>, thrust::device_ptr<long>, long, ThrustLTOp<long>, thrust::detail::integral_constant<bool, bool=1>, thrust::detail::integral_constant<bool, bool=0>>, bool, thrust::device_ptr<long>, thrust::device_ptr<long>, long, long*, long*, ThrustLTOp<long>>(thrust::device_ptr<long>, thrust::device_ptr<long>, long, long, ThrustLTOp<long>, bool, bool=1)
+          1                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          1                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          1                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          1                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void atomicadaptivemaxgradinput<float>(float*, float*, long*, int, int, int, int)
+          3                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          3                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          3                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          3                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void gemmk1_kernel<float, int=256, int=5, bool=0, bool=0, bool=1, bool=0>(cublasGemmk1Params<float>, float const *, float const *, float*)
+          4                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          4                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          4                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)        1188        3564        1980
+          4                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void thrust::cuda_cub::core::_kernel_agent<thrust::cuda_cub::__parallel_for::ParallelForAgent<thrust::cuda_cub::__transform::unary_transform_f<thrust::counting_iterator<long, thrust::use_default, thrust::use_default, thrust::use_default>, thrust::device_ptr<long>, thrust::cuda_cub::__transform::no_stencil_tag, thrust::identity<long>, thrust::cuda_cub::__transform::always_true_predicate>, long>, thrust::cuda_cub::__transform::unary_transform_f<thrust::counting_iterator<long, thrust::use_default, thrust::use_default, thrust::use_default>, thrust::device_ptr<long>, thrust::cuda_cub::__transform::no_stencil_tag, thrust::identity<long>, thrust::cuda_cub::__transform::always_true_predicate>, long>(thrust::use_default, thrust::use_default)
+          1                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          1                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+          1                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          1                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void cudnn::detail::wgrad_alg0_engine<float, int=128, int=6, int=8, int=3, int=3, int=5, bool=1, int=512>(int, int, int, float const *, int, cudnn::detail::wgrad_alg0_engine<float, int=128, int=6, int=8, int=3, int=3, int=5, bool=1, int=512>*, float const , kernel_grad_params, int, float, int, int, int, int)
+          2                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          2                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)  1204158464  1204158464  1204158464
+          2                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)      186624      192960      189792
+          2                     flop_count_sp_special   Floating Point Operations(Single Precision Special)       36864       36864       36864
+    Kernel: void indexSelectLargeIndex<float, unsigned int, int=2, int=2, int=-2, bool=1>(TensorInfo<float, unsigned int>, TensorInfo<float, unsigned int>, TensorInfo<long, unsigned int>, int, int, unsigned int, unsigned int, long)
+         53                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+         53                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+         53                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+         53                     flop_count_sp_special   Floating Point Operations(Single Precision Special)      220500      220500      220500
+    Kernel: volta_scudnn_128x64_relu_interior_nn_v1
+        159                         flop_count_sp_add       Floating Point Operations(Single Precision Add)     9420800    14131200    12561066
+        159                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)    75366400   226099200   138171733
+        159                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)     9420800    14131200    12561066
+        159                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void cudnn::detail::dgrad_engine<float, int=128, int=6, int=7, int=3, int=3, int=5, bool=1>(int, int, int, float const *, int, float const , int, cudnn::detail::dgrad_engine<float, int=128, int=6, int=7, int=3, int=3, int=5, bool=1>*, kernel_grad_params, int, int, float, int, int, int)
+          3                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+          3                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)   489881600   791347200   640614400
+          3                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)      146998      734910      489950
+          3                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void cunn_ClassNLLCriterion_updateOutput_kernel<float, float>(float*, float*, float*, long*, float*, int, int, int, int, long)
+          4                         flop_count_sp_add       Floating Point Operations(Single Precision Add)          66          66          66
+          4                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           8           8           8
+          4                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+          4                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           1           1           1
+    Kernel: void gemv2N_kernel_val<float, float, float, int=128, int=2, int=4, int=4, int=1>(float, float, cublasGemv2Params_v2<float, float, float>)
+          1                         flop_count_sp_add       Floating Point Operations(Single Precision Add)        1188        1188        1188
+          1                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)        3168        3168        3168
+          1                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)          56          56          56
+          1                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelReduceAll<thrust::identity<unsigned char>, ReduceAdd<unsigned char, long>, ReduceAdd<long, long>, unsigned char, long, unsigned int, int=-2>(TensorInfo<long, long>, long, ReduceAdd<unsigned char, long>, unsigned char, thrust::identity<unsigned char>, unsigned char, ReduceAdd<unsigned char, long>*)
+        156                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+        156                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+        156                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+        156                     flop_count_sp_special   Floating Point Operations(Single Precision Special)        1024        1024        1024
+    Kernel: void kernelPointwiseApply3<TensorAddCMulOp<float>, float, float, float, unsigned int, int=-2, int=-2, int=-2>(TensorInfo<TensorAddCMulOp<float>, float>, TensorInfo<float, float>, TensorInfo<float, float>, float, float)
+         30                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+         30                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           2      141267       10056
+         30                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           2      141267       10056
+         30                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
+    Kernel: void kernelPointwiseApply3<TensorEQOp<long, unsigned char>, unsigned char, long, long, unsigned int, int=-2, int=-2, int=-2>(TensorInfo<unsigned char, long>, TensorInfo<TensorEQOp<long, unsigned char>, long>, TensorInfo<unsigned char, long>, long, long)
+        208                         flop_count_sp_add       Floating Point Operations(Single Precision Add)           0           0           0
+        208                         flop_count_sp_fma       Floating Point Operations(Single Precision FMA)           0           0           0
+        208                         flop_count_sp_mul        Floating Point Operation(Single Precision Mul)           0           0           0
+        208                     flop_count_sp_special   Floating Point Operations(Single Precision Special)           0           0           0
