@@ -1,0 +1,20 @@
+#!/bin/bash
+#BSUB -P CSC276
+#BSUB -W 2:00
+#BSUB -nnodes 512 
+#BSUB -J hyper512 
+#BSUB -o outhyper512.%J
+#BSUB -e errhyper512.%J
+
+export PATH="/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/bin:$PATH"
+
+#BSEC Module
+BSECMODULEDIR=/gpfs/alpinetds/csc276/proj-shared/modules
+[[ -d $BSECMODULEDIR/modulefiles ]] && module use $BSECMODULEDIR/modulefiles
+
+module load pytorch 
+
+cd /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/fivetwelve
+
+date
+jsrun -n 512 -a 1 -g 6 python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/fivetwelve/results 
