@@ -1,0 +1,9206 @@
+Sun Apr  1 21:51:21 EDT 2018
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 90.38
+Behavior: 88.46
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 94.23
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 86.54
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 86.54
+Grade: 40.38
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 82.69
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 86.54
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 94.23
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 88.46
+Grade: 46.15
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 53.85
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 46.15
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 65.38
+Laterality: 94.23
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 94.23
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 25.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 86.54
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 86.54
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 88.46
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 94.23
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 84.62
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 88.46
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 90.38
+Behavior: 86.54
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 82.69
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 86.54
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 32.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 92.31
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 96.15
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 88.46
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 32.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 96.15
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 86.54
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 92.31
+Behavior: 84.62
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 86.54
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 88.46
+Behavior: 92.31
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 88.46
+Grade: 25.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 88.46
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 94.23
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 94.23
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 92.31
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 96.15
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 94.23
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 94.23
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 94.23
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 88.46
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 65.38
+Laterality: 90.38
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 86.54
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 96.15
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 86.54
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 96.15
+Behavior: 94.23
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 84.62
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 86.54
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 98.08
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 88.46
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 90.38
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 88.46
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 88.46
+Behavior: 92.31
+Grade: 55.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 86.54
+Grade: 40.38
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 84.62
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 38.46
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 96.15
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 86.54
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 98.08
+Behavior: 94.23
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 32.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 94.23
+Behavior: 88.46
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 86.54
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 94.23
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 88.46
+Grade: 19.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 55.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 94.23
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 96.15
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 88.46
+Grade: 50.00
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 75.00
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 46.15
+Behavior: 84.62
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 59.62
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 94.23
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 92.31
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 51.92
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 38.46
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 92.31
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 88.46
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 86.54
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 34.62
+Laterality: 92.31
+Behavior: 94.23
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 88.46
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 96.15
+Behavior: 96.15
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 96.15
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 86.54
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 96.15
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 86.54
+Behavior: 86.54
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 96.15
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 94.23
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 96.15
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 96.15
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 86.54
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 94.23
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 84.62
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 88.46
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 88.46
+Behavior: 90.38
+Grade: 40.38
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 84.62
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 96.15
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 86.54
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 96.15
+Behavior: 94.23
+Grade: 46.15
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 86.54
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 94.23
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 86.54
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 88.46
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 94.23
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 90.38
+Grade: 51.92
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 96.15
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 88.46
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 86.54
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 88.46
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 88.46
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 94.23
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 94.23
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 86.54
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 88.46
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 90.38
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 86.54
+Behavior: 94.23
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 86.54
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 86.54
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 92.31
+Grade: 40.38
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 94.23
+Behavior: 86.54
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 88.46
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 86.54
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 88.46
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 36.54
+Laterality: 94.23
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 84.62
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 55.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 94.23
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 86.54
+Behavior: 92.31
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 88.46
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 88.46
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 88.46
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 92.31
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 88.46
+Grade: 25.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 90.38
+Grade: 36.54
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 86.54
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 86.54
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 86.54
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 96.15
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 88.46
+Grade: 26.92
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 86.54
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 36.54
+Laterality: 92.31
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 53.85
+Behavior: 86.54
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 86.54
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 94.23
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 92.31
+Behavior: 88.46
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 46.15
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 88.46
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 84.62
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 86.54
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 86.54
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 86.54
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 86.54
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 86.54
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 92.31
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 94.23
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 76.92
+Behavior: 88.46
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 96.15
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 53.85
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 86.54
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 23.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 19.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 86.54
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 55.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 92.31
+Behavior: 94.23
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 94.23
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 96.15
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 63.46
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 57.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 88.46
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 88.46
+Behavior: 86.54
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 86.54
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 32.69
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 86.54
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 86.54
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 86.54
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 28.85
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 84.62
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 86.54
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 86.54
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 36.54
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 82.69
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 36.54
+Laterality: 94.23
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 36.54
+Laterality: 90.38
+Behavior: 92.31
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 90.38
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 96.15
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 98.08
+Behavior: 92.31
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 90.38
+Grade: 50.00
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 94.23
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 44.23
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 86.54
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 57.69
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 90.38
+Grade: 25.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 96.15
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 84.62
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 96.15
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 96.15
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 90.38
+Behavior: 90.38
+Grade: 55.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 94.23
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 96.15
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 88.46
+Grade: 38.46
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 86.54
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 86.54
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 53.85
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 80.77
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 86.54
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 86.54
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 92.31
+Grade: 34.62
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 86.54
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 96.15
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 94.23
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 88.46
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 86.54
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 94.23
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 25.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 98.08
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 86.54
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 86.54
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 55.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 44.23
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 94.23
+Behavior: 86.54
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 88.46
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 88.46
+Behavior: 90.38
+Grade: 26.92
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 88.46
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 86.54
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 94.23
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 96.15
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 88.46
+Grade: 51.92
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 96.15
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 88.46
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 86.54
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 86.54
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 42.31
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 88.46
+Grade: 57.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 96.15
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 84.62
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 86.54
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 86.54
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 88.46
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 90.38
+Behavior: 88.46
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 84.62
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 86.54
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 92.31
+Grade: 46.15
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 94.23
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 96.15
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 88.46
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 84.62
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 94.23
+Grade: 42.31
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 88.46
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 98.08
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 88.46
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 86.54
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 67.31
+Laterality: 90.38
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 88.46
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 88.46
+Grade: 44.23
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 94.23
+Behavior: 90.38
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 88.46
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 36.54
+Laterality: 90.38
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 51.92
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 88.46
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 86.54
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 94.23
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 86.54
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 88.46
+Behavior: 88.46
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 86.54
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 96.15
+Behavior: 94.23
+Grade: 46.15
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 88.46
+Behavior: 90.38
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 90.38
+Grade: 63.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 98.08
+Behavior: 94.23
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 90.38
+Behavior: 92.31
+Grade: 59.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 86.54
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 94.23
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 84.62
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 57.69
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 86.54
+Grade: 26.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 88.46
+Behavior: 88.46
+Grade: 23.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 94.23
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 88.46
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 90.38
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 88.46
+Grade: 42.31
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 92.31
+Grade: 28.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 34.62
+Laterality: 36.54
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 86.54
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 90.38
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 94.23
+Grade: 55.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 92.31
+Behavior: 94.23
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 86.54
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 88.46
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 98.08
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 94.23
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 86.54
+Grade: 48.08
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 86.54
+Behavior: 94.23
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 90.38
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 86.54
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 65.38
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 53.85
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 92.31
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 88.46
+Grade: 46.15
+
+Hello World!!!
+Iteration No: 1 started. Evaluating function at provided point.
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 92.31
+Grade: 51.92
+
+Iteration No: 1 ended. Evaluation done at provided point.
+Time taken: 638.9413
+Function value obtained: 3.3150
+Current minimum: 3.1272
+Iteration No: 2 started. Evaluating function at provided point.
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 96.15
+Behavior: 92.31
+Grade: 44.23
+
+Iteration No: 2 ended. Evaluation done at provided point.
+Time taken: 260.5406
+Function value obtained: 2.8164
+Current minimum: 2.8164
+Iteration No: 3 started. Evaluating function at random point.
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 88.46
+Behavior: 88.46
+Grade: 42.31
+
+Iteration No: 3 ended. Evaluation done at random point.
+Time taken: 267.1865
+Function value obtained: 3.2346
+Current minimum: 2.8164
+Iteration No: 4 started. Evaluating function at random point.
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+Iteration No: 4 ended. Evaluation done at random point.
+Time taken: 266.3954
+Function value obtained: 3.4705
+Current minimum: 2.8164
+Iteration No: 5 started. Evaluating function at random point.
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 90.38
+Grade: 46.15
+
+Iteration No: 5 ended. Evaluation done at random point.
+Time taken: 268.6332
+Function value obtained: 3.6221
+Current minimum: 2.8164
+Iteration No: 6 started. Evaluating function at random point.
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 36.54
+
+Iteration No: 6 ended. Evaluation done at random point.
+Time taken: 240.4917
+Function value obtained: 3.3568
+Current minimum: 2.8164
+Iteration No: 7 started. Evaluating function at random point.
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 90.38
+Grade: 44.23
+
+Iteration No: 7 ended. Evaluation done at random point.
+Time taken: 191.8288
+Function value obtained: 3.5193
+Current minimum: 2.8164
+Iteration No: 8 started. Evaluating function at random point.
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 90.38
+Grade: 46.15
+
+Iteration No: 8 ended. Evaluation done at random point.
+Time taken: 269.6809
+Function value obtained: 3.5960
+Current minimum: 2.8164
+Iteration No: 9 started. Evaluating function at random point.
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+Iteration No: 9 ended. Evaluation done at random point.
+Time taken: 220.1843
+Function value obtained: 3.4658
+Current minimum: 2.8164
+Iteration No: 10 started. Evaluating function at random point.
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 44.23
+
+Iteration No: 10 ended. Evaluation done at random point.
+Time taken: 266.8550
+Function value obtained: 3.5360
+Current minimum: 2.8164
+Iteration No: 11 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+Iteration No: 11 ended. Search finished for the next optimal point.
+Time taken: 261.9265
+Function value obtained: 3.2546
+Current minimum: 2.8164
+Iteration No: 12 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+Iteration No: 12 ended. Search finished for the next optimal point.
+Time taken: 248.1001
+Function value obtained: 3.7026
+Current minimum: 2.8164
+Iteration No: 13 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 92.31
+Behavior: 88.46
+Grade: 36.54
+
+Iteration No: 13 ended. Search finished for the next optimal point.
+Time taken: 250.3609
+Function value obtained: 3.0355
+Current minimum: 2.8164
+Iteration No: 14 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 63.46
+Laterality: 90.38
+Behavior: 90.38
+Grade: 38.46
+
+Iteration No: 14 ended. Search finished for the next optimal point.
+Time taken: 217.8523
+Function value obtained: 3.1511
+Current minimum: 2.8164
+Iteration No: 15 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+Iteration No: 15 ended. Search finished for the next optimal point.
+Time taken: 247.8622
+Function value obtained: 3.2782
+Current minimum: 2.8164
+Iteration No: 16 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+Iteration No: 16 ended. Search finished for the next optimal point.
+Time taken: 243.4471
+Function value obtained: 3.3834
+Current minimum: 2.8164
+Iteration No: 17 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+Iteration No: 17 ended. Search finished for the next optimal point.
+Time taken: 220.2078
+Function value obtained: 3.3279
+Current minimum: 2.8164
+Iteration No: 18 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+Iteration No: 18 ended. Search finished for the next optimal point.
+Time taken: 207.7552
+Function value obtained: 3.3409
+Current minimum: 2.8164
+Iteration No: 19 started. Searching for the next optimal point.
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 90.38
+Behavior: 92.31
+Grade: 50.00
+
+Iteration No: 19 ended. Search finished for the next optimal point.
+Time taken: 217.1996
+Function value obtained: 3.0614
+Current minimum: 2.8164
+Iteration No: 20 started. Searching for the next optimal point.
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 88.46
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 90.38
+Behavior: 82.69
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 94.23
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 88.46
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 90.38
+Behavior: 90.38
+Grade: 32.69
+
+
+Epoch 50 Test Accuracy:
+Subsite: 40.38
+Laterality: 94.23
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 88.46
+Grade: 38.46
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 94.23
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 38.46
+Laterality: 92.31
+Behavior: 84.62
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 88.46
+Behavior: 90.38
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 88.46
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 92.31
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 88.46
+Behavior: 84.62
+Grade: 42.31
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 90.38
+Behavior: 92.31
+Grade: 51.92
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 90.38
+Behavior: 86.54
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 88.46
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 90.38
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 94.23
+Behavior: 90.38
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 94.23
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 98.08
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 94.23
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 61.54
+Laterality: 92.31
+Behavior: 88.46
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 88.46
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 94.23
+Behavior: 90.38
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 94.23
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 92.31
+Behavior: 96.15
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 94.23
+Behavior: 90.38
+Grade: 25.00
+
+Hello World!!!
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 94.23
+Behavior: 92.31
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 44.23
+Laterality: 92.31
+Behavior: 94.23
+Grade: 30.77
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 55.77
+Laterality: 92.31
+Behavior: 86.54
+Grade: 40.38
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 94.23
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 88.46
+Behavior: 92.31
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 88.46
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 92.31
+Behavior: 94.23
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 57.69
+Laterality: 88.46
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 53.85
+Laterality: 90.38
+Behavior: 90.38
+Grade: 36.54
+
+
+Epoch 50 Test Accuracy:
+Subsite: 42.31
+Laterality: 92.31
+Behavior: 96.15
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 94.23
+Behavior: 92.31
+Grade: 34.62
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 92.31
+Grade: 44.23
+
+
+Epoch 50 Test Accuracy:
+Subsite: 59.62
+Laterality: 92.31
+Behavior: 92.31
+Grade: 42.31
+
+
+Epoch 50 Test Accuracy:
+Subsite: 50.00
+Laterality: 90.38
+Behavior: 94.23
+Grade: 46.15
+
+
+Epoch 50 Test Accuracy:
+Subsite: 48.08
+Laterality: 92.31
+Behavior: 92.31
+Grade: 50.00
+
+
+Epoch 50 Test Accuracy:
+Subsite: 51.92
+Laterality: 94.23
+Behavior: 90.38
+Grade: 48.08
+
+
+Epoch 50 Test Accuracy:
+Subsite: 46.15
+Laterality: 88.46
+Behavior: 90.38
+Grade: 46.15
+
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch1>
+Subject: Job 53771: <hyper64> in cluster <summit> Done
+
+Job <hyper64> was submitted from host <login4> by user <yngtodd> in cluster <summit> at Sun Apr  1 21:50:52 2018
+Job was executed on host(s) <1*batch1>, in queue <batch>, as user <yngtodd> in cluster <summit> at Sun Apr  1 21:50:55 2018
+                            <42*a01n02>
+                            <42*a01n03>
+                            <42*a01n04>
+                            <42*a01n05>
+                            <42*a01n06>
+                            <42*a01n07>
+                            <42*a01n08>
+                            <42*a01n09>
+                            <42*a01n10>
+                            <42*a01n11>
+                            <42*a01n12>
+                            <42*a01n13>
+                            <42*a01n14>
+                            <42*a01n15>
+                            <42*a01n16>
+                            <42*a01n17>
+                            <42*a02n01>
+                            <42*a02n02>
+                            <42*a02n03>
+                            <42*a02n04>
+                            <42*a02n06>
+                            <42*a02n07>
+                            <42*a02n08>
+                            <42*a02n09>
+                            <42*a02n11>
+                            <42*a02n12>
+                            <42*a02n13>
+                            <42*a02n14>
+                            <42*a02n16>
+                            <42*a02n17>
+                            <42*a02n18>
+                            <42*a03n01>
+                            <42*a03n02>
+                            <42*a03n03>
+                            <42*a03n04>
+                            <42*a03n05>
+                            <42*a03n06>
+                            <42*a03n07>
+                            <42*a03n08>
+                            <42*a03n09>
+                            <42*a03n11>
+                            <42*a03n12>
+                            <42*a03n14>
+                            <42*a03n15>
+                            <42*a03n16>
+                            <42*a03n18>
+                            <42*a04n01>
+                            <42*a04n02>
+                            <42*a04n03>
+                            <42*a04n04>
+                            <42*a04n06>
+                            <42*a04n07>
+                            <42*a04n08>
+                            <42*a04n09>
+                            <42*a04n10>
+                            <42*a04n11>
+                            <42*a04n12>
+                            <42*a04n13>
+                            <42*a04n14>
+                            <42*a04n15>
+                            <42*a04n16>
+                            <42*a04n17>
+                            <42*a04n18>
+                            <42*a07n01>
+</ccs/home/yngtodd> was used as the home directory.
+</gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/sixtyfour> was used as the working directory.
+Started at Sun Apr  1 21:50:55 2018
+Terminated at Sun Apr  1 23:17:43 2018
+Results reported at Sun Apr  1 23:17:43 2018
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <errhyper64.53771> for stderr output of this job.
+

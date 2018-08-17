@@ -1,0 +1,903 @@
+
+Lmod is automatically replacing "xl/20180223-beta" with "gcc/5.4.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) spectrum-mpi/10.2.0.0-20180110
+
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 97, in hyperdrive
+    sentence = sentence.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'
+Traceback (most recent call last):
+  File "hyperdrive.py", line 260, in <module>
+    main()
+  File "hyperdrive.py", line 257, in main
+    deadline=6000)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/hyperspace-0.2.0-py3.6.egg/hyperspace/hyperdrive/hyperdrive.py", line 101, in hyperdrive
+    grade = grade.half()
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/gp.py", line 228, in gp_minimize
+    callback=callback, n_jobs=n_jobs)
+  File "/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/base.py", line 230, in base_minimize
+    y0 = list(map(func, x0))
+  File "hyperdrive.py", line 70, in objective
+    optimizer = optim.Adam(model.parameters())
+AttributeError: 'int' object has no attribute 'Adam'

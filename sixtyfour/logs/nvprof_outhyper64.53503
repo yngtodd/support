@@ -1,0 +1,86 @@
+Sat Mar 31 19:58:40 EDT 2018
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch4>
+Subject: Job 53503: <nvprof_hyper64> in cluster <summit> Exited
+
+Job <nvprof_hyper64> was submitted from host <login4> by user <arvind> in cluster <summit> at Sat Mar 31 19:21:22 2018
+Job was executed on host(s) <1*batch4>, in queue <batch>, as user <arvind> in cluster <summit> at Sat Mar 31 19:58:19 2018
+                            <42*b20n14>
+                            <42*b20n15>
+                            <42*b20n16>
+                            <42*b20n17>
+                            <42*b21n01>
+                            <42*b21n02>
+                            <42*b21n03>
+                            <42*b21n04>
+                            <42*b21n05>
+                            <42*b21n06>
+                            <42*b21n07>
+                            <42*b21n08>
+                            <42*b21n09>
+                            <42*b21n10>
+                            <42*b21n11>
+                            <42*b21n12>
+                            <42*b21n13>
+                            <42*b21n14>
+                            <42*b21n15>
+                            <42*b21n16>
+                            <42*b21n17>
+                            <42*b21n18>
+                            <42*b22n01>
+                            <42*b22n02>
+                            <42*b22n03>
+                            <42*b22n04>
+                            <42*b22n05>
+                            <42*b22n06>
+                            <42*b22n07>
+                            <42*b22n08>
+                            <42*b22n09>
+                            <42*b22n10>
+                            <42*b22n11>
+                            <42*b22n12>
+                            <42*b22n13>
+                            <42*b22n14>
+                            <42*b22n15>
+                            <42*b22n16>
+                            <42*b22n17>
+                            <42*b22n18>
+                            <42*b23n01>
+                            <42*b23n02>
+                            <42*b23n03>
+                            <42*b23n04>
+                            <42*b23n05>
+                            <42*b23n06>
+                            <42*b23n07>
+                            <42*b23n08>
+                            <42*b23n09>
+                            <42*b23n10>
+                            <42*b23n11>
+                            <42*b23n12>
+                            <42*b23n13>
+                            <42*b23n14>
+                            <42*b23n15>
+                            <42*b23n16>
+                            <42*b23n17>
+                            <42*b23n18>
+                            <42*b24n02>
+                            <42*b24n03>
+                            <42*b24n04>
+                            <42*b24n05>
+                            <42*b24n06>
+                            <42*b24n07>
+</ccs/home/arvind> was used as the home directory.
+</gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/sixtyfour> was used as the working directory.
+Started at Sat Mar 31 19:58:19 2018
+Terminated at Sat Mar 31 19:58:47 2018
+Results reported at Sat Mar 31 19:58:47 2018
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <nvprof_errhyper64.53503> for stderr output of this job.
+

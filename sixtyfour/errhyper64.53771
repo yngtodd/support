@@ -1,0 +1,15 @@
+
+Lmod is automatically replacing "xl/20180223-beta" with "gcc/5.4.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) spectrum-mpi/10.2.0.0-20180110
+
+/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/optimizer.py:384: UserWarning: The objective has been evaluated at this point before.
+  warnings.warn("The objective has been evaluated "
+/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/optimizer.py:384: UserWarning: The objective has been evaluated at this point before.
+  warnings.warn("The objective has been evaluated "
+/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/optimizer.py:384: UserWarning: The objective has been evaluated at this point before.
+  warnings.warn("The objective has been evaluated "
+/gpfs/alpinetds/proj-shared/csc276/yngtodd/anaconda3/lib/python3.6/site-packages/skopt/optimizer/optimizer.py:384: UserWarning: The objective has been evaluated at this point before.
+  warnings.warn("The objective has been evaluated "

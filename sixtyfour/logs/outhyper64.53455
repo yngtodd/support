@@ -1,0 +1,86 @@
+Sun Apr  1 08:00:41 EDT 2018
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@batch5>
+Subject: Job 53455: <hyper64> in cluster <summit> Exited
+
+Job <hyper64> was submitted from host <login3> by user <yngtodd> in cluster <summit> at Sat Mar 31 14:26:52 2018
+Job was executed on host(s) <1*batch5>, in queue <batch>, as user <yngtodd> in cluster <summit> at Sun Apr  1 07:59:37 2018
+                            <42*a12n15>
+                            <42*a12n16>
+                            <42*a12n17>
+                            <42*a12n18>
+                            <42*a13n01>
+                            <42*a13n03>
+                            <42*a13n04>
+                            <42*a13n05>
+                            <42*a13n06>
+                            <42*a13n07>
+                            <42*a13n08>
+                            <42*a13n09>
+                            <42*a13n10>
+                            <42*a13n12>
+                            <42*a13n13>
+                            <42*a13n14>
+                            <42*a13n16>
+                            <42*a13n17>
+                            <42*a13n18>
+                            <42*a14n01>
+                            <42*a14n02>
+                            <42*a14n03>
+                            <42*a14n04>
+                            <42*a14n05>
+                            <42*a14n06>
+                            <42*a14n07>
+                            <42*a14n08>
+                            <42*a14n10>
+                            <42*a14n11>
+                            <42*a14n12>
+                            <42*a14n13>
+                            <42*a14n15>
+                            <42*a14n16>
+                            <42*a14n17>
+                            <42*a14n18>
+                            <42*a15n01>
+                            <42*a15n02>
+                            <42*a15n03>
+                            <42*a15n04>
+                            <42*a15n05>
+                            <42*a15n06>
+                            <42*a15n07>
+                            <42*a15n08>
+                            <42*a15n09>
+                            <42*a15n10>
+                            <42*a15n11>
+                            <42*a15n12>
+                            <42*a15n14>
+                            <42*a15n15>
+                            <42*a15n16>
+                            <42*a15n17>
+                            <42*a15n18>
+                            <42*a16n01>
+                            <42*a16n02>
+                            <42*a16n03>
+                            <42*a16n04>
+                            <42*a16n05>
+                            <42*a16n06>
+                            <42*a16n07>
+                            <42*a16n08>
+                            <42*a16n09>
+                            <42*a16n10>
+                            <42*a16n11>
+                            <42*a16n12>
+</ccs/home/yngtodd> was used as the home directory.
+</gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/sixtyfour> was used as the working directory.
+Started at Sun Apr  1 07:59:37 2018
+Terminated at Sun Apr  1 09:59:45 2018
+Results reported at Sun Apr  1 09:59:45 2018
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <errhyper64.53455> for stderr output of this job.
+
