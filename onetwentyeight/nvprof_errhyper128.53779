@@ -1,0 +1,395 @@
+
+Lmod is automatically replacing "xl/20180223-beta" with "gcc/5.4.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) spectrum-mpi/10.2.0.0-20180110
+
+==135218== NVPROF is profiling process 135218, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==144251== NVPROF is profiling process 144251, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==118181== NVPROF is profiling process 118181, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==163256== NVPROF is profiling process 163256, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==118573== NVPROF is profiling process 118573, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==14049== NVPROF is profiling process 14049, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==1731== NVPROF is profiling process 1731, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==27690== NVPROF is profiling process 27690, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==120643== NVPROF is profiling process 120643, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==163767== NVPROF is profiling process 163767, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==27690== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==27690== Use "-f" to overwrite existing file
+==135218== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==135218== Use "-f" to overwrite existing file
+==120643== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==120643== Use "-f" to overwrite existing file
+==163767== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==163767== Use "-f" to overwrite existing file
+==14049== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==14049== Use "-f" to overwrite existing file
+==144251== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==144251== Use "-f" to overwrite existing file
+==1731== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==1731== Use "-f" to overwrite existing file
+==118573== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==118573== Use "-f" to overwrite existing file
+==151767== NVPROF is profiling process 151767, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==149638== NVPROF is profiling process 149638, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==118181== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==118181== Use "-f" to overwrite existing file
+==151767== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==151767== Use "-f" to overwrite existing file
+==173564== NVPROF is profiling process 173564, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==175361== NVPROF is profiling process 175361, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==149638== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==149638== Use "-f" to overwrite existing file
+==163549== NVPROF is profiling process 163549, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==175361== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==175361== Use "-f" to overwrite existing file
+==163549== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==163549== Use "-f" to overwrite existing file
+==120884== NVPROF is profiling process 120884, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==173564== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==173564== Use "-f" to overwrite existing file
+==14004== NVPROF is profiling process 14004, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==21403== NVPROF is profiling process 21403, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==105396== NVPROF is profiling process 105396, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==120884== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==120884== Use "-f" to overwrite existing file
+==14004== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==14004== Use "-f" to overwrite existing file
+==105396== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==105396== Use "-f" to overwrite existing file
+==116092== NVPROF is profiling process 116092, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==119110== NVPROF is profiling process 119110, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==119110== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==119110== Use "-f" to overwrite existing file
+==120721== NVPROF is profiling process 120721, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==21403== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==21403== Use "-f" to overwrite existing file
+==110548== NVPROF is profiling process 110548, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==120721== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==120721== Use "-f" to overwrite existing file
+==78680== NVPROF is profiling process 78680, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==75714== NVPROF is profiling process 75714, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==137230== NVPROF is profiling process 137230, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==75714== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==75714== Use "-f" to overwrite existing file
+==148704== NVPROF is profiling process 148704, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==137230== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==137230== Use "-f" to overwrite existing file
+==119133== NVPROF is profiling process 119133, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==148704== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==148704== Use "-f" to overwrite existing file
+==119133== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==119133== Use "-f" to overwrite existing file
+==116092== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==116092== Use "-f" to overwrite existing file
+==78680== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==78680== Use "-f" to overwrite existing file
+==110548== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==110548== Use "-f" to overwrite existing file
+==93326== NVPROF is profiling process 93326, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==93326== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==93326== Use "-f" to overwrite existing file
+==9928== NVPROF is profiling process 9928, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==167678== NVPROF is profiling process 167678, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==9928== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==9928== Use "-f" to overwrite existing file
+==167678== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==167678== Use "-f" to overwrite existing file
+==151650== NVPROF is profiling process 151650, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==109312== NVPROF is profiling process 109312, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==34302== NVPROF is profiling process 34302, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==146332== NVPROF is profiling process 146332, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==34302== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==34302== Use "-f" to overwrite existing file
+==146332== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==146332== Use "-f" to overwrite existing file
+==151650== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==151650== Use "-f" to overwrite existing file
+==109312== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==109312== Use "-f" to overwrite existing file
+==171560== NVPROF is profiling process 171560, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==74593== NVPROF is profiling process 74593, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==171560== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==171560== Use "-f" to overwrite existing file
+==74593== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==74593== Use "-f" to overwrite existing file
+==57866== NVPROF is profiling process 57866, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==42660== NVPROF is profiling process 42660, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==57866== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==57866== Use "-f" to overwrite existing file
+==7710== NVPROF is profiling process 7710, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==7710== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==7710== Use "-f" to overwrite existing file
+==31306== NVPROF is profiling process 31306, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==42660== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==42660== Use "-f" to overwrite existing file
+==20966== NVPROF is profiling process 20966, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==40714== NVPROF is profiling process 40714, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==135536== NVPROF is profiling process 135536, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==31306== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==31306== Use "-f" to overwrite existing file
+==40714== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==40714== Use "-f" to overwrite existing file
+==33119== NVPROF is profiling process 33119, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==135536== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==135536== Use "-f" to overwrite existing file
+==68670== NVPROF is profiling process 68670, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==103199== NVPROF is profiling process 103199, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==20966== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==20966== Use "-f" to overwrite existing file
+==68670== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==68670== Use "-f" to overwrite existing file
+==103199== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==103199== Use "-f" to overwrite existing file
+==33119== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==33119== Use "-f" to overwrite existing file
+==121035== NVPROF is profiling process 121035, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==144718== NVPROF is profiling process 144718, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==144718== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==144718== Use "-f" to overwrite existing file
+==121035== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==121035== Use "-f" to overwrite existing file
+==4610== NVPROF is profiling process 4610, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==113967== NVPROF is profiling process 113967, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==69236== NVPROF is profiling process 69236, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==19560== NVPROF is profiling process 19560, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==113967== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==113967== Use "-f" to overwrite existing file
+==4610== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==4610== Use "-f" to overwrite existing file
+==19560== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==19560== Use "-f" to overwrite existing file
+==70515== NVPROF is profiling process 70515, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==69236== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==69236== Use "-f" to overwrite existing file
+==79464== NVPROF is profiling process 79464, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==62893== NVPROF is profiling process 62893, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==70515== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==70515== Use "-f" to overwrite existing file
+==29813== NVPROF is profiling process 29813, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==87063== NVPROF is profiling process 87063, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==79464== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==79464== Use "-f" to overwrite existing file
+==108574== NVPROF is profiling process 108574, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==19450== NVPROF is profiling process 19450, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==108574== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==108574== Use "-f" to overwrite existing file
+==53623== NVPROF is profiling process 53623, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==29813== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==29813== Use "-f" to overwrite existing file
+==140877== NVPROF is profiling process 140877, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==19450== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==19450== Use "-f" to overwrite existing file
+==53623== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==53623== Use "-f" to overwrite existing file
+==140877== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==140877== Use "-f" to overwrite existing file
+==135378== NVPROF is profiling process 135378, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==170053== NVPROF is profiling process 170053, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==134588== NVPROF is profiling process 134588, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==135378== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==135378== Use "-f" to overwrite existing file
+==104482== NVPROF is profiling process 104482, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==87063== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==87063== Use "-f" to overwrite existing file
+==134588== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==134588== Use "-f" to overwrite existing file
+==178363== NVPROF is profiling process 178363, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==145837== NVPROF is profiling process 145837, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==170053== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==170053== Use "-f" to overwrite existing file
+==145837== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==145837== Use "-f" to overwrite existing file
+==77305== NVPROF is profiling process 77305, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==178363== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==178363== Use "-f" to overwrite existing file
+==94115== NVPROF is profiling process 94115, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==81002== NVPROF is profiling process 81002, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==94115== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==94115== Use "-f" to overwrite existing file
+==10548== NVPROF is profiling process 10548, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==81002== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==81002== Use "-f" to overwrite existing file
+==86078== NVPROF is profiling process 86078, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==8391== NVPROF is profiling process 8391, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==104482== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==104482== Use "-f" to overwrite existing file
+==86078== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==86078== Use "-f" to overwrite existing file
+==13465== NVPROF is profiling process 13465, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==152383== NVPROF is profiling process 152383, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==10548== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==10548== Use "-f" to overwrite existing file
+==137634== NVPROF is profiling process 137634, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==77305== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==77305== Use "-f" to overwrite existing file
+==13465== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==13465== Use "-f" to overwrite existing file
+==29435== NVPROF is profiling process 29435, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==152383== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==152383== Use "-f" to overwrite existing file
+==93136== NVPROF is profiling process 93136, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==147512== NVPROF is profiling process 147512, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==137634== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==137634== Use "-f" to overwrite existing file
+==29435== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==29435== Use "-f" to overwrite existing file
+==113581== NVPROF is profiling process 113581, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==177429== NVPROF is profiling process 177429, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==93136== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==93136== Use "-f" to overwrite existing file
+==8391== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==8391== Use "-f" to overwrite existing file
+==177429== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==177429== Use "-f" to overwrite existing file
+==101352== NVPROF is profiling process 101352, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==52830== NVPROF is profiling process 52830, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==101352== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==101352== Use "-f" to overwrite existing file
+==113581== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==113581== Use "-f" to overwrite existing file
+==21058== NVPROF is profiling process 21058, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==121534== NVPROF is profiling process 121534, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==122416== NVPROF is profiling process 122416, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==62893== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==62893== Use "-f" to overwrite existing file
+==152033== NVPROF is profiling process 152033, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==18681== NVPROF is profiling process 18681, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==10422== NVPROF is profiling process 10422, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==156222== NVPROF is profiling process 156222, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==150750== NVPROF is profiling process 150750, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==169865== NVPROF is profiling process 169865, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==18681== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==18681== Use "-f" to overwrite existing file
+==152033== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==152033== Use "-f" to overwrite existing file
+==54878== NVPROF is profiling process 54878, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==83663== NVPROF is profiling process 83663, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==10422== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==10422== Use "-f" to overwrite existing file
+==122416== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==122416== Use "-f" to overwrite existing file
+==121534== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==121534== Use "-f" to overwrite existing file
+==150750== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==150750== Use "-f" to overwrite existing file
+==14508== NVPROF is profiling process 14508, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==178326== NVPROF is profiling process 178326, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==147512== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==147512== Use "-f" to overwrite existing file
+==17908== NVPROF is profiling process 17908, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==112252== NVPROF is profiling process 112252, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==85790== NVPROF is profiling process 85790, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==83663== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==83663== Use "-f" to overwrite existing file
+==170923== NVPROF is profiling process 170923, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==165217== NVPROF is profiling process 165217, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==14508== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==14508== Use "-f" to overwrite existing file
+==21058== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==21058== Use "-f" to overwrite existing file
+==178326== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==178326== Use "-f" to overwrite existing file
+==112252== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==112252== Use "-f" to overwrite existing file
+==161822== NVPROF is profiling process 161822, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==170923== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==170923== Use "-f" to overwrite existing file
+==150605== NVPROF is profiling process 150605, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==45897== NVPROF is profiling process 45897, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==54878== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==54878== Use "-f" to overwrite existing file
+==171558== NVPROF is profiling process 171558, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==74853== NVPROF is profiling process 74853, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==19511== NVPROF is profiling process 19511, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==154435== NVPROF is profiling process 154435, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==156222== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==156222== Use "-f" to overwrite existing file
+==59257== NVPROF is profiling process 59257, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==34193== NVPROF is profiling process 34193, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==165217== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==165217== Use "-f" to overwrite existing file
+==154091== NVPROF is profiling process 154091, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==85790== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==85790== Use "-f" to overwrite existing file
+==161822== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==161822== Use "-f" to overwrite existing file
+==17908== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==17908== Use "-f" to overwrite existing file
+==59257== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==59257== Use "-f" to overwrite existing file
+==89127== NVPROF is profiling process 89127, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==30161== NVPROF is profiling process 30161, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==34193== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==34193== Use "-f" to overwrite existing file
+==125951== NVPROF is profiling process 125951, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==98511== NVPROF is profiling process 98511, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==150605== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==150605== Use "-f" to overwrite existing file
+==30161== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==30161== Use "-f" to overwrite existing file
+==52830== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==52830== Use "-f" to overwrite existing file
+==74853== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==74853== Use "-f" to overwrite existing file
+==154435== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==154435== Use "-f" to overwrite existing file
+==45897== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==45897== Use "-f" to overwrite existing file
+==93825== NVPROF is profiling process 93825, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==137960== NVPROF is profiling process 137960, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==166339== NVPROF is profiling process 166339, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==19511== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==19511== Use "-f" to overwrite existing file
+==115975== NVPROF is profiling process 115975, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==137960== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==137960== Use "-f" to overwrite existing file
+==93825== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==93825== Use "-f" to overwrite existing file
+==166339== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==166339== Use "-f" to overwrite existing file
+==87132== NVPROF is profiling process 87132, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==115975== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==115975== Use "-f" to overwrite existing file
+==175907== NVPROF is profiling process 175907, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==14155== NVPROF is profiling process 14155, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==123708== NVPROF is profiling process 123708, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==89127== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==89127== Use "-f" to overwrite existing file
+==98511== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==98511== Use "-f" to overwrite existing file
+==69502== NVPROF is profiling process 69502, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==87132== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==87132== Use "-f" to overwrite existing file
+==91165== NVPROF is profiling process 91165, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==14075== NVPROF is profiling process 14075, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==101010== NVPROF is profiling process 101010, command: python hyperdrive.py --results_dir /gpfs/alpinetds/proj-shared/csc276/yngtodd/ringingbells/mtcnn/onetwentyeight/results
+==171558== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==171558== Use "-f" to overwrite existing file
+==69502== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==69502== Use "-f" to overwrite existing file
+==14075== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==14075== Use "-f" to overwrite existing file
+==101010== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==101010== Use "-f" to overwrite existing file
+==175907== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==175907== Use "-f" to overwrite existing file
+==14155== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==14155== Use "-f" to overwrite existing file
+==125951== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==125951== Use "-f" to overwrite existing file
+==123708== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==123708== Use "-f" to overwrite existing file
+==154091== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==154091== Use "-f" to overwrite existing file
+==169865== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==169865== Use "-f" to overwrite existing file
+==91165== Error: File already exists: /gpfs/alpinetds/csc276/proj-shared/yngtodd/ringingbells/mtcnn/onetwentyeight/hyperprof.csv
+==91165== Use "-f" to overwrite existing file
+ERROR: The connection to the JSM daemon has failed.
+  This is a strong indication that the JSM daemon has exited unexpectedly.
+  When this occurs, error logs are left on the affected nodes in
+/tmp/JSMDIAG-LOG-<hostname>-<pid> or in
+/tmp/jsm.batch5.63311/66307/JSMD-LOG-<hostname>-<pid>
+[batch5:42545] PMIX ERROR: UNPACK-PAST-END in file tool/pmix_tool.c at line 105
